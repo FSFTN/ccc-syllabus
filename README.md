@@ -14,23 +14,7 @@ This repository contains Syllabus and other contents for CCC. The planning is ba
 * Class XI
 * Class XII
 
-<!-- ### Fifth standard
-#### Part1
-Intro to computer
-
-#### part2
-Computer hardware Intro
-
-#### Part3
-Hardware and software collobrative work explaination
-
-#### Part4
-Software Introductions
-
-#### part5
-Office suits working progress
-
-### Sixth standard
+<!-- ### Sixth standard
 #### Part1
 Intro to computer
 
