@@ -5,7 +5,7 @@ Syllabus for Community Computing Center organised by FSFTN
 This repository contains Syllabus and other contents for CCC. The planning is based on classes from 5th to 12th students.
 
 ## Classes
-* Class V
+* [Class V](classes/fifth.md)
 * Class VI
 * Class VII
 * Class VIII
