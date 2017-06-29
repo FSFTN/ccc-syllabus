@@ -1,9 +1,20 @@
-# ccc-syllabus
-Syllabus for Community Computing Center Organised by FSFTN
+# CCC-Syllabus
+Syllabus for Community Computing Center organised by FSFTN
 
-This repo contains syllabus and other materials for CCC.Our plan starts from fifth to twelth standard  
+## Introduction
+This repository contains Syllabus and other contents for CCC. The planning is based on classes from 5th to 12th students.
 
-### Fifth standard
+## Classes
+* 5th Standard
+* 6th Standard
+* 7th Standard
+* 8th Standard
+* 9th Standard
+* 10th Standard
+* 11th Standard
+* 12th Standard
+
+<!-- ### Fifth standard
 #### Part1
 Intro to computer
 
@@ -97,6 +108,4 @@ Hardware and software collobrative work explaination
 Software Introductions
 
 #### part5
-Office suits working progress
-
-
+Office suits working progress -->
